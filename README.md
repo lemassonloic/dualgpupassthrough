@@ -1,6 +1,8 @@
 
 Dual GPU Passthrough — Proxmox VE
 
+*Built from scratch in one week. No external help. Just curiosity and passion.*
+
 Two independent Windows workstations on a single physical machine using KVM, VFIO and IOMMU.
 
 Project overview
@@ -31,4 +33,4 @@ Documentation
 Author
 Loïc Lemasson — Self-taught system engineer — Saint-Lô, Normandie, France
 📩 lemasson.loic50@gmail.com
-🔗 LinkedIn : https://www.linkedin.com/in/lo%C3%AFc-lemasson-624896413/
+🔗 [LinkedIn](https://www.linkedin.com/in/loïc-lemasson-624896413/)
